@@ -8,6 +8,7 @@ import EventsTimeline from '../components/EventsTimeline';
 import FeaturedStories from '../components/FeaturedStories';
 import ExhibitsGrid from '../components/ExhibitsGrid';
 import Newsletter from '../components/Newsletter';
+import Partners from '../components/Partners';
 
 const Index = () => {
   useEffect(() => {
@@ -21,6 +22,7 @@ const Index = () => {
       
       <main>
         <HeroSection />
+        <Partners />
         <FeaturedArtists />
         <ExhibitsGrid />
         <EventsTimeline />

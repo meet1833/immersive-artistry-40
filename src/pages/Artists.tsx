@@ -2,7 +2,6 @@
 import { useEffect } from 'react';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
-import Partners from '../components/Partners';
 
 const Artists = () => {
   useEffect(() => {
@@ -15,9 +14,7 @@ const Artists = () => {
       <Navbar />
       
       <main className="pt-32 pb-20">
-        <Partners />
-        
-        <div className="container mx-auto px-4 mt-16">
+        <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto mb-16">
             <span className="font-mono uppercase text-neon-pink text-sm tracking-wider">Creators</span>
             <h1 className="editorial-heading mt-2 mb-6">Featured Artists</h1>
