@@ -25,6 +25,14 @@ const artistsData: Artist[] = [
   },
   {
     id: 2,
+    name: "Sagar Singh",
+    title: "Spatial Design & Architecture",
+    bio: "Co-founder of SA Ladakh. Designer | Creative Strategist | Artist | Space Designer | BIM architect",
+    image: "/lovable-uploads/6306e457-b6f2-49e4-977e-453c269cc335.png",
+    category: "Architecture & Design",
+  },
+  {
+    id: 3,
     name: "Maya Winters",
     title: "Neuromorphic Landscapes",
     bio: "Exploring the intersection of neural networks and visual art through immersive VR environments.",
@@ -32,7 +40,7 @@ const artistsData: Artist[] = [
     category: "Virtual Reality",
   },
   {
-    id: 3,
+    id: 4,
     name: "Aiden Chen",
     title: "Digital Ephemera",
     bio: "Creating fleeting digital moments that challenge our perception of permanence in the digital age.",
@@ -40,7 +48,7 @@ const artistsData: Artist[] = [
     category: "Augmented Reality",
   },
   {
-    id: 4,
+    id: 5,
     name: "Sofia Rodriguez",
     title: "Quantum Memory",
     bio: "Investigating memory and identity through interactive installations and mixed reality experiences.",
