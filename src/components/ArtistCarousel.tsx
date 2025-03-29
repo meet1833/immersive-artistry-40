@@ -38,6 +38,14 @@ const artists: Artist[] = [
     category: "Architecture & Design",
   },
   {
+    id: 6,
+    name: "Shantanu Mishra",
+    title: "Artist",
+    bio: "Art/Educator/Storyteller building @projectevoloka",
+    image: "/lovable-uploads/5028b940-a892-434b-9682-a4b084b79125.png",
+    category: "Education & Storytelling",
+  },
+  {
     id: 3,
     name: "Maya Winters",
     title: "Neuromorphic Landscapes",
